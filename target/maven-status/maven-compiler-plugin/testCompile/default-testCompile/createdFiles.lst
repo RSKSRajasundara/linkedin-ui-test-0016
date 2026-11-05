@@ -1,0 +1,4 @@
+base\BaseTest.class
+pages\LoginPage.class
+tests\LinkedInTest.class
+pages\SearchPage.class
